@@ -229,14 +229,14 @@ DEPENDENCIES
   devise (>= 4.7.1)
   figaro (>= 1.1.1)
   font-awesome-sass (= 4.6.2)
-  hirb (>= 0.7.3)
+  hirb (= 0.7.3)
   jbuilder (= 2.5.0)
   jquery-rails (= 4.1.1)
-  listen
+  listen (= 3.0.5)
   paperclip (~> 5.2.1)
   pg (= 1.1.4)
   puma (= 3.4.0)
-  rails
+  rails (= 5.0.0)
   sass-rails (= 5.0.6)
   spring
   spring-watcher-listen (= 2.0.0)
