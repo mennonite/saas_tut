@@ -1,25 +1,25 @@
 source 'https://rubygems.org'
-ruby '~> 2.3.4'
+ruby '2.3.3'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails'
 # Use Puma as the app server
-gem 'puma', '>= 3.4.0'
+gem 'puma', '3.4.0'
 # Use SCSS for stylesheets
-gem 'sass-rails', '>= 5.0.6'
+gem 'sass-rails', '5.0.6'
 # Use Uglifier as compressor for JavaScript assets
-gem 'uglifier', '>= 3.0.0'
+gem 'uglifier', '3.0.0'
 # Use CoffeeScript for .coffee assets and views
-gem 'coffee-rails', '>= 4.2.1'
+gem 'coffee-rails', '4.2.1'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
 # Use jquery as the JavaScript library
-gem 'jquery-rails', '~> 4.3.5'
+gem 'jquery-rails', '4.1.1'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
-gem 'turbolinks'
+gem 'turbolinks', '5.0.0'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
-gem 'jbuilder'
+gem 'jbuilder', '2.5.0'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '3.0'
 # Use ActiveModel has_secure_password
@@ -29,10 +29,10 @@ gem 'jbuilder'
 # gem 'capistrano-rails', group: :development
 
 #Use Twitter Bootstrap library for front-end UI and layout
-gem 'bootstrap-sass', '>= 3.4.1'
+gem 'bootstrap-sass', '3.3.7'
 
 # Use Font Awesome sass gem for adding icons
-gem 'font-awesome-sass', '~> 5.11.2'
+gem 'font-awesome-sass', '4.6.2'
 
 #Use Hirb for better database table display in console
 gem 'hirb', '>= 0.7.3'
