@@ -38,16 +38,16 @@ gem 'font-awesome-sass', '4.6.2'
 gem 'hirb', '0.7.3'
 
 #Use Devise for user authentication
-gem 'devise', '>= 4.7.1'
+gem 'devise', '4.7.1'
 
 # Use Stripe for payment processing
-gem 'stripe', '>= 1.48.0'
+gem 'stripe', '1.48.0'
 
 # Use Figaro for ENV variables
-gem 'figaro', '>= 1.1.1'
+gem 'figaro', '1.1.1'
 
 # Use Paperclip for image upload
-gem "paperclip", "~> 5.2.1"
+gem "paperclip", '5.2.1'
 
 
 group :development, :test do
